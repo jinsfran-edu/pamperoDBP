@@ -9,3 +9,4 @@ c:\Users\joi\git\DBProjects\Pampero\obj\Debug\postdeploy.sql
 c:\Users\joi\git\DBProjects\Pampero\obj\Debug\predeploy.sql
 c:\Users\joi\git\DBProjects\Pampero\obj\Debug\Pampero.dll
 c:\Users\joi\git\DBProjects\Pampero\obj\Debug\Pampero.pdb
+c:\Users\joi\git\DBProjects\Pampero\obj\Debug\Pampero.sourcelink.json

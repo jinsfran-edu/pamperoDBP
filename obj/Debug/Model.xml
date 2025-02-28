@@ -4674,11 +4674,11 @@ WHERE Pedidos.FechaEnvio IS NOT NULL]]></Value>
 			<Property Name="BodyScript">
 				<Value><![CDATA[
 IF @Apellido IS NOT NULL
-SELECT e.apellido, e.nombre, e.puesto, e.fechaalta
+SELECT e.Apellido, e.Nombre, e.Puesto, e.FechaAlta
 FROM Empleados e
-WHERE e.apellido LIKE @Apellido + '%';
+WHERE e.Apellido LIKE @Apellido + '%';
 ELSE
-SELECT e.apellido, e.nombre, e.puesto, e.fechaalta
+SELECT e.Apellido, e.Nombre, e.Puesto, e.FechaAlta
 FROM Empleados e]]></Value>
 			</Property>
 			<Property Name="IsAnsiNullsOn" Value="True" />
