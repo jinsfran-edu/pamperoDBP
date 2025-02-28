@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "McFvzwbMEPg=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\joi\\git\\DBProjects\\Pampero\\Pampero.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joi\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\joi\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

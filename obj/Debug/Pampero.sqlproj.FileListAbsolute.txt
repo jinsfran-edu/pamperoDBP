@@ -1,0 +1,11 @@
+c:\Users\joi\git\DBProjects\Pampero\bin\Debug\Pampero.dacpac
+c:\Users\joi\git\DBProjects\Pampero\bin\Debug\Pampero.dll
+c:\Users\joi\git\DBProjects\Pampero\bin\Debug\Pampero.pdb
+c:\Users\joi\git\DBProjects\Pampero\obj\Debug\Pampero.sqlproj.AssemblyReference.cache
+c:\Users\joi\git\DBProjects\Pampero\obj\Debug\Pampero.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\joi\git\DBProjects\Pampero\obj\Debug\Model.xml
+c:\Users\joi\git\DBProjects\Pampero\obj\Debug\refactor.xml
+c:\Users\joi\git\DBProjects\Pampero\obj\Debug\postdeploy.sql
+c:\Users\joi\git\DBProjects\Pampero\obj\Debug\predeploy.sql
+c:\Users\joi\git\DBProjects\Pampero\obj\Debug\Pampero.dll
+c:\Users\joi\git\DBProjects\Pampero\obj\Debug\Pampero.pdb
